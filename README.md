@@ -1,2 +1,2 @@
 # ConverterTemperatura
- Algoritimo de conversão de temperatura. 
+ Algoritmo de conversão de temperatura. 
